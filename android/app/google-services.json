@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "398896485904",
+    "project_id": "upnotify-2d353",
+    "storage_bucket": "upnotify-2d353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398896485904:android:f5dc957d714238a2c7dc95",
+        "android_client_info": {
+          "package_name": "com.fardan.upnotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398896485904-en21ucqnk7t27moaik27l4sddhmjrkcb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fardan.upnotify",
+            "certificate_hash": "2cc85960592da7b567d53cf2da1d08b0f609757f"
+          }
+        },
+        {
+          "client_id": "398896485904-vdaufbnn9qvgf6ra5q4er7p30m81ddro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj8S0L9cUdAgFDCVRa8oW4915IufXxan4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398896485904-30fsqqi6vkkk4d8t71g4kg4a7kcre29s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
